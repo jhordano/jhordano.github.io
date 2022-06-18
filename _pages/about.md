@@ -10,6 +10,6 @@ redirect_from:
 
 **Welcome!**
 
-I am a PhD student in Econometrics at the University of Groningen
+I am a PhD student in Econometrics at the University of Groningen.
 My research focuses on panel data models and their applications. Currently, I am working in panel data models with latent group structures.
 
