@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-**"Grouped heterogeneity in linear panel data models with heterogeneous error variances"**
+**Grouped heterogeneity in linear panel data models with heterogeneous error variances**
 
 *Joint with [Tom Boot](https://sites.google.com/view/tomboot).* 
 
