@@ -11,5 +11,6 @@ redirect_from:
 **Welcome!**
 
 I am a PhD student in Econometrics at the University of Groningen.
-My research focuses on panel data models and their applications. Currently, I am working in panel data models with latent group structures.
+My research focuses on panel data models and their applications. Currently, I am working in linear panel data models that estimate the effect of a policy intervention.
+
 
