@@ -61,6 +61,9 @@ We propose a new method-of-moments based toolkit to test for return predictabili
 
 </section>
 
+{% for post in site.research reversed %}
+  {% include archive-single.html %}
+{% endfor %}
 
 
 
