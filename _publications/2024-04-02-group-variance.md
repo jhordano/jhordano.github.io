@@ -12,4 +12,4 @@ We develop a procedure to identify latent group structures in linear panel data 
 
 [Download paper here](https://www.tandfonline.com/doi/full/10.1080/07350015.2024.2325440)
 
-Recommended citation: YAguilar-Loyo and Boot (2024). "Grouped heterogeneity in linear panel data models with heterogeneous error variances." <i>Journal of Business Economic Stastistics</i>.
+Recommended citation: Aguilar-Loyo and Boot (2024). "Grouped heterogeneity in linear panel data models with heterogeneous error variances." <i>Journal of Business Economic Stastistics</i>.
