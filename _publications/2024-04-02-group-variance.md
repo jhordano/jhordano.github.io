@@ -3,7 +3,7 @@ title: "Grouped heterogeneity in linear panel data models with heterogeneous err
 collection: publications
 permalink: /publication/2024-04-02-group-variance
 pubtype: 'journal'
-excerpt: 'Join with [Tom Boot](https://sites.google.com/view/tomboot/home)'
+excerpt: 'With [Tom Boot](https://sites.google.com/view/tomboot/home).'
 date: 2024-04-02
 venue: 'Journal of Business Economic Stastistics'
 paperurl: 'https://www.tandfonline.com/doi/full/10.1080/07350015.2024.2325440'
