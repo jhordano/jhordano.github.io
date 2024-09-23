@@ -1,6 +1,5 @@
 ---
 title: "Estimation of heterogeneous treatment effects using two-way fixed effects"
-collection: publications
 pubtype: 'wp'
 permalink: /publication/twfe-2023-mar
 excerpt: 'This paper finds an equivalence between the extended TWFE estimator and a difference-in-difference estimator. '
