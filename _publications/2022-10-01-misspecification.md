@@ -3,7 +3,7 @@ title: "Misspecification and Identification Robust Predictability Testing with P
 collection: publications
 pubtype: 'wp'
 permalink: /publication/2022-10-01-misspecification
-excerpt: 'Join work with Arturas Juodis'
+excerpt: 'With [Arturas Juodis](https://sites.google.com/site/ajuodisresearch/home) and [Lammertjan Dam](https://www.rug.nl/staff/l.dam/).'
 ---
 
 
