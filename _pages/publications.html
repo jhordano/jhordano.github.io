@@ -9,23 +9,17 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
-<h2>Journal Articles</h2>
+<h2>Journal articles</h2>
 {% for post in site.publications reversed %}
   {% if post.pubtype == 'journal' %}
       {% include archive-single.html %}
   {% endif %}
 {% endfor %}
 
-<h2>Conference Papers</h2>
+<h2>Working papers</h2>
 {% for post in site.publications reversed %}
-  {% if post.pubtype == 'conference' %}
+  {% if post.pubtype == 'wp' %}
       {% include archive-single.html %}
   {% endif %}
 {% endfor %}
 
-<h2>Academic</h2>
-{% for post in site.publications reversed %}
-  {% if post.pubtype == 'academic' %}
-      {% include archive-single.html %}
-  {% endif %}
-{% endfor %}
