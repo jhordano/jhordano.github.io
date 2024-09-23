@@ -3,6 +3,7 @@ title: "Estimation of heterogeneous treatment effects using two-way fixed effect
 pubtype: 'wp'
 permalink: /publication/twfe-2023-mar
 date: 2023-03-06
+excerpt: 'This paper finds an equivalence between the extended TWFE estimator and a difference-in-difference estimator'
 venue: 'SSRN'
 paperurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4380425'
 ---
