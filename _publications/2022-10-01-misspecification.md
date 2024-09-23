@@ -4,7 +4,6 @@ collection: publications
 pubtype: 'wp'
 permalink: /publication/2022-10-01-misspecification
 excerpt: 'Join work with Arturas Juodis'
-date: 2022-10-01
 ---
 
 
