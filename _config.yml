@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jhordano Aguilar"
 title_separator          : "-"
 name                     : &name "Jhordano Aguilar"
-description              : &description "PhD Candidate in Econometrics at the University of Groningen"
+description              : &description "PhD in Econometrics at the University of Groningen"
 url                      : https://jhordano.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jhordano/jhordano.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jhordano Aguilar"
   avatar           : "photo.jpg"
-  bio              : "PhD Candidate in Econometrics at the University of Groningen"
+  bio              : "PhD in Econometrics at the University of Groningen"
   location         : "Groningen"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
