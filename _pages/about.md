@@ -10,7 +10,7 @@ redirect_from:
 
 **Welcome!**
 
-I am a PhD student in Econometrics at the University of Groningen.
-My research focuses on panel data models and their applications. Currently, I am working in linear panel data models that estimate the effect of a policy intervention.
+I obtained my PhD at the University of Groningen.
+My research focuses on causal inference with panel data models. Currently, I am working in linear panel data models that estimate the effect of a policy intervention.
 
 
