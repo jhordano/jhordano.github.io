@@ -1,9 +1,10 @@
 ---
 title: "A comparative analysis of two-way fixed effects estimators in staggered treatment designs"
-pubtype: 'publications'
+collection: publications
 permalink: /publication/twfe-2023-mar
-date: 2025-09-07
+pubtype: 'journal'
 excerpt: 'This paper finds an equivalence between the extended TWFE estimator and a difference-in-difference estimator'
+date: 2025-09-07
 venue: 'Journal of Econometrics'
 paperurl: 'https://doi.org/10.1016/j.jeconom.2025.106059'
 ---
