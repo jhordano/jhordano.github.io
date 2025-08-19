@@ -4,7 +4,7 @@ pubtype: 'publications'
 permalink: /publication/twfe-2023-mar
 date: 2025-09-07
 excerpt: 'This paper finds an equivalence between the extended TWFE estimator and a difference-in-difference estimator'
-venue: 'SSRN'
+venue: 'Journal of Econometrics'
 paperurl: 'https://doi.org/10.1016/j.jeconom.2025.106059'
 ---
 
